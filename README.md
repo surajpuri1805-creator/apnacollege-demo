@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first reository
 <br>
-Author - suraj puri
+Author - suraj puri(chotu)
